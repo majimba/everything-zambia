@@ -38,6 +38,10 @@ collections:
     output: true
     permalink: /:collection/:name/
 
+# Exclude from automatic processing
+exclude_from_site:
+  - MASTER_INDEX_EVERYTHING_ZAMBIA.md
+
 # Defaults
 defaults:
   - scope:
