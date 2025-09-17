@@ -1,0 +1,83 @@
+# GitHub Pages Configuration for Everything Zambia
+title: Everything Zambia
+description: Comprehensive knowledge base about the Republic of Zambia
+author: Everything Zambia Team
+email: contact@everythingzambia.org
+
+# GitHub Pages settings
+baseurl: "/everything-zambia"
+url: "https://majimba.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Master Index
+    url: /MASTER_INDEX_EVERYTHING_ZAMBIA.html
+  - title: Learning Paths
+    url: /learning_paths/
+  - title: Foundational Documents
+    url: /foundational_documents/
+  - title: Modern Framework
+    url: /modern_zambia_framework/
+
+# Collections
+collections:
+  learning_paths:
+    output: true
+    permalink: /:collection/:name/
+  foundational_documents:
+    output: true
+    permalink: /:collection/:name/
+  modern_zambia_framework:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "learning_paths"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "foundational_documents"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "modern_zambia_framework"
+    values:
+      layout: "page"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - CHARTER.md
+  - COLLECTION_GUIDE.md
+  - PROJECT_CHARTER.md
+  - STRATEGIC_GROWTH_PLAN.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
