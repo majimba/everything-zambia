@@ -44,10 +44,17 @@ This is not just research - this is a **MASTER'S MEDIA PROJECT** and **CULTURAL 
 ## 🚀 **The National Charter**
 
 ### 📜 **THE FOUNDATION**
+<<<<<<< HEAD
 **[📄 THE CHARTER - Our Sacred Vow](knowledge_base/PROJECT_CHARTER.md)**  
 *Our Identity, Our Manifesto, Our Promise - For God and For Country*
 
 **[📊 STRATEGIC GROWTH PLAN - Complete Framework](knowledge_base/STRATEGIC_GROWTH_PLAN.md)**  
+=======
+**[📄 THE CHARTER - Our Sacred Vow](PROJECT_CHARTER.md)**  
+*Our Identity, Our Manifesto, Our Promise - For God and For Country*
+
+**[📊 STRATEGIC GROWTH PLAN - Complete Framework](STRATEGIC_GROWTH_PLAN.md)**  
+>>>>>>> 8e1111d8486161586f27e78eef80d3ea4d718a54
 *The comprehensive business strategy, brand framework, and implementation roadmap for Everything Zambia as a cultural media brand*
 
 ---
@@ -55,11 +62,19 @@ This is not just research - this is a **MASTER'S MEDIA PROJECT** and **CULTURAL 
 ## 📚 **Access Our Work**
 
 ### 📖 **For Learning & Discovery**
+<<<<<<< HEAD
 **[📚 Collection Guide & Learning Paths](knowledge_base/COLLECTION_GUIDE.md)**  
 *Structured journeys through Zambian identity, from quick snapshots to complete experiences*
 
 ### 📋 **For Research & Reference**
 **[🗂️ Master Index](knowledge_base/MASTER_INDEX_EVERYTHING_ZAMBIA.md)**  
+=======
+**[📚 Collection Guide & Learning Paths](COLLECTION_GUIDE.md)**  
+*Structured journeys through Zambian identity, from quick snapshots to complete experiences*
+
+### 📋 **For Research & Reference**
+**[🗂️ Master Index](MASTER_INDEX_EVERYTHING_ZAMBIA.md)**  
+>>>>>>> 8e1111d8486161586f27e78eef80d3ea4d718a54
 *Complete catalog of all 25 documents - the research foundation of our national project*
 
 ---
@@ -94,14 +109,24 @@ Understanding Zambian values, regional role, development partnership opportuniti
 ## 🎯 **Start Your Journey**
 
 ### 🚀 **New to the Project?**
+<<<<<<< HEAD
 1. **Read the [Project Charter](knowledge_base/PROJECT_CHARTER.md)** - Understand our vision and approach
 2. **Explore the [Collection Guide](knowledge_base/COLLECTION_GUIDE.md)** - Choose your learning path
+=======
+1. **Read the [Project Charter](PROJECT_CHARTER.md)** - Understand our vision and approach
+2. **Explore the [Collection Guide](COLLECTION_GUIDE.md)** - Choose your learning path
+>>>>>>> 8e1111d8486161586f27e78eef80d3ea4d718a54
 3. **Start with a Snapshot** - Quick 15-30 minute overview of specific eras
 4. **Dive Deeper** - Follow guided journeys or explore specific topics
 
 ### 🔄 **Returning Users?**
+<<<<<<< HEAD
 - **[Master Index](knowledge_base/MASTER_INDEX_EVERYTHING_ZAMBIA.md)** - Jump directly to specific documents
 - **[Collection Guide](knowledge_base/COLLECTION_GUIDE.md)** - Continue learning journeys
+=======
+- **[Master Index](MASTER_INDEX_EVERYTHING_ZAMBIA.md)** - Jump directly to specific documents
+- **[Collection Guide](COLLECTION_GUIDE.md)** - Continue learning journeys
+>>>>>>> 8e1111d8486161586f27e78eef80d3ea4d718a54
 
 ---
 
@@ -116,10 +141,17 @@ This is **OUR PROJECT** - every Zambian's project. Whether you're a citizen disc
 ---
 
 ### 🎯 **Start Here**
+<<<<<<< HEAD
 - **[📄 READ THE CHARTER](knowledge_base/PROJECT_CHARTER.md)** - **OUR SACRED VOW** - Our Identity, Manifesto, and Promise to the Nation
 - **[📊 STRATEGIC GROWTH PLAN](knowledge_base/STRATEGIC_GROWTH_PLAN.md)** - **THE ROADMAP** - Complete business strategy and implementation framework
 - **[📚 Explore Our Work](knowledge_base/COLLECTION_GUIDE.md)** - Structured journeys through Zambian identity
 - **[📋 Browse All Research](knowledge_base/MASTER_INDEX_EVERYTHING_ZAMBIA.md)** - Complete archive of 25 documents
+=======
+- **[📄 READ THE CHARTER](PROJECT_CHARTER.md)** - **OUR SACRED VOW** - Our Identity, Manifesto, and Promise to the Nation
+- **[📊 STRATEGIC GROWTH PLAN](STRATEGIC_GROWTH_PLAN.md)** - **THE ROADMAP** - Complete business strategy and implementation framework
+- **[📚 Explore Our Work](COLLECTION_GUIDE.md)** - Structured journeys through Zambian identity
+- **[📋 Browse All Research](MASTER_INDEX_EVERYTHING_ZAMBIA.md)** - Complete archive of 25 documents
+>>>>>>> 8e1111d8486161586f27e78eef80d3ea4d718a54
 
 ---
 
