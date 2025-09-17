@@ -38,9 +38,6 @@ collections:
     output: true
     permalink: /:collection/:name/
 
-# Exclude from automatic processing
-exclude_from_site:
-  - MASTER_INDEX_EVERYTHING_ZAMBIA.md
 
 # Defaults
 defaults:
@@ -78,6 +75,7 @@ exclude:
   - COLLECTION_GUIDE.md
   - PROJECT_CHARTER.md
   - STRATEGIC_GROWTH_PLAN.md
+  - MASTER_INDEX_EVERYTHING_ZAMBIA.md
   - Gemfile
   - Gemfile.lock
   - node_modules
