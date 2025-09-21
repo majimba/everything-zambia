@@ -33,10 +33,10 @@ This is not just research - this is a **MASTER'S MEDIA PROJECT** and **CULTURAL 
 
 ## 🎬 Flagship Documentary Series
 
-### News Ambience (MVP)
-Our flagship documentary series capturing the texture of Zambian life through short, sound‑led episodes you can browse end‑to‑end.
+### The New Zambian (MVP)
+Our flagship documentary series exploring modern Zambian identity through character-driven documentary storytelling.
 
-➡️ Start here: [Explore News Ambience](news_ambience/README.md)
+➡️ Start here: [Explore The New Zambian](the_new_zambian/README.md)
 
 ---
 
