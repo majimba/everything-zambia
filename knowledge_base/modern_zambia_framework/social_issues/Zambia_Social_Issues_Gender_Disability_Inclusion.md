@@ -97,7 +97,7 @@ Zambia has made significant strides in addressing social issues related to gende
 ## Social Inclusion and Marginalized Groups
 
 ### Youth Development and Inclusion
-**National Youth Policy (2024):**
+**National Youth Policy (2025):**
 - **Theme:** "Accelerating youth participation and empowerment in Zambia"
 - **Youth Population:** 26.7% of total population (ages 19-34)
 - **Key Areas:** Education, employment, health, civic participation

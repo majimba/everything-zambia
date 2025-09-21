@@ -162,7 +162,7 @@ This guided journey takes you through the complete story of Zambia - from ancien
 
 ---
 
-### 👥 Document 8: National Youth Policy 2024
+### 👥 Document 8: National Youth Policy 2025
 **📖 [National_Youth_Policy_2024.md](../foundational_documents/youth_and_social_policies/National_Youth_Policy_2024.md)**
 
 **Why This Connects:** See how independence-era ideals of youth empowerment continue in modern policies.
@@ -229,7 +229,7 @@ This guided journey takes you through the complete story of Zambia - from ancien
 
 ---
 
-### ⚖️ Document 12: Human Rights Commission Act 2024 - Overview
+### ⚖️ Document 12: Human Rights Commission Act 2025 - Overview
 **📖 [Human_Rights_Commission_Act_2024_Overview.md](../foundational_documents/constitution_and_governance/Human_Rights_Commission_Act_2024_Overview.md)**
 
 **Why This Matters:** See how human rights protection has been institutionalized in modern Zambia.
@@ -266,7 +266,7 @@ This guided journey takes you through the complete story of Zambia - from ancien
 ## 📍 **PHASE 5: Modern Governance Systems**
 *How democracy works in practice today*
 
-### 🏢 Document 14: Current Government Structure 2021-2024
+### 🏢 Document 14: Current Government Structure 2021-2025
 **📖 [Current_Government_Structure_2021-2024.md](../modern_zambia_framework/current_government/Current_Government_Structure_2021-2024.md)**
 
 **Why Start Here:** See how the constitutional framework you learned about actually operates in practice today.
@@ -333,7 +333,7 @@ This guided journey takes you through the complete story of Zambia - from ancien
 ## 📍 **PHASE 6: Contemporary Challenges & Opportunities**
 *Current issues and future prospects*
 
-### 🎯 Document 18: Current National Challenges 2024
+### 🎯 Document 18: Current National Challenges 2025
 **📖 [Current_National_Challenges_2024.md](../modern_zambia_framework/national_challenges/Current_National_Challenges_2024.md)**
 
 **Why Start Here:** Understand the key challenges facing Zambia today and government responses.

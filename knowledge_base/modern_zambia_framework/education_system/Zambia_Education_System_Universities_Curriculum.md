@@ -194,7 +194,7 @@ Zambia's education system has undergone significant transformation, particularly
 - **Language of instruction:** Balancing local languages and English
 - **Assessment systems:** Modernizing examination processes
 
-### Recent Reforms (2021-2024)
+### Recent Reforms (2021-2025)
 
 #### Free Education Implementation
 - **Policy rollout:** Systematic implementation across all levels
@@ -214,7 +214,7 @@ Zambia's education system has undergone significant transformation, particularly
 - **Industry partnerships:** University-industry collaboration
 - **Quality assurance:** Strengthened accreditation processes
 
-## Educational Statistics (2024)
+## Educational Statistics (2025)
 
 ### Enrollment Figures
 - **Primary Enrollment:** 4.2 million students
@@ -272,4 +272,4 @@ Zambia's education system has undergone significant transformation, particularly
 
 ---
 
-*This comprehensive overview reflects Zambia's education system as of 2024, including recent reforms and ongoing development initiatives.*
+*This comprehensive overview reflects Zambia's education system as of 2025, including recent reforms and ongoing development initiatives.*

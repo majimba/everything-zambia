@@ -16,7 +16,7 @@ Zambia's healthcare system operates under the Ministry of Health (MOH) and is st
 - **116 District Health Offices (DHOs)**
 - **Various Statutory Institutions**
 
-### Healthcare Infrastructure (2024)
+### Healthcare Infrastructure (2025)
 
 #### Health Facilities Distribution
 **Total Facilities:** 3,321 health facilities
@@ -77,7 +77,7 @@ Zambia's healthcare system operates under the Ministry of Health (MOH) and is st
 
 ## Health Workforce
 
-### Current Status (2024)
+### Current Status (2025)
 **Skilled Health Worker Density:** 21.61 per 10,000 population
 - **Medical doctors:** 2.97 per 10,000 population
 - **Nurses/midwives:** 18.64 per 10,000 population
@@ -103,7 +103,7 @@ Zambia's healthcare system operates under the Ministry of Health (MOH) and is st
 ## Health Financing
 
 ### Budget Allocation
-**2024 Health Budget:** K20.9 billion (11.8% of national budget)
+**2025 Health Budget:** K20.9 billion (11.8% of national budget)
 - **2023 Budget:** K17.4 billion (10.4% of national budget)
 - **Real increase:** 6% (adjusted for inflation)
 - **Abuja target:** 15% (not yet achieved)
@@ -145,12 +145,12 @@ Zambia's healthcare system operates under the Ministry of Health (MOH) and is st
 
 ### Maternal and Child Health
 **Maternal Health:**
-- **Maternal mortality ratio:** 187 deaths per 100,000 live births (2024)
+- **Maternal mortality ratio:** 187 deaths per 100,000 live births (2025)
 - **Previous rate:** 252 per 100,000 live births (2018)
 - **NHSP target:** <100 per 100,000 live births by 2026
 
 **Child Health:**
-- **Neonatal mortality:** 17 deaths per 1,000 live births (2024)
+- **Neonatal mortality:** 17 deaths per 1,000 live births (2025)
 - **Previous rate:** 27 per 1,000 live births (2018)
 - **Under-5 mortality:** Target 25 per 1,000 live births by 2026
 
@@ -304,4 +304,4 @@ Zambia's healthcare system operates under the Ministry of Health (MOH) and is st
 
 ---
 
-*This comprehensive overview reflects Zambia's healthcare system as of 2024, including recent reforms, challenges, and strategic priorities for achieving Universal Health Coverage.*
+*This comprehensive overview reflects Zambia's healthcare system as of 2025, including recent reforms, challenges, and strategic priorities for achieving Universal Health Coverage.*

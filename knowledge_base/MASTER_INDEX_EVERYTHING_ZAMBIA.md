@@ -1,15 +1,20 @@
 # MASTER INDEX: Everything Zambia - Complete Collection
 
-🏠 [Homepage](README.md) | 📚 [Learning Paths](README.md#choose-your-learning-path) | 🔍 [Quick Navigation](#-quick-facts-and-statistics)
+🏠 [Homepage](../README.md) | 🇿🇲 [What is Everything Zambia?](../EVERYTHING_ZAMBIA_DEFINITION.md) | 📚 [Learning Paths](../README.md#choose-your-learning-path) | 🎨 [Brand Charter](BRAND_CHARTER.md) | 🔍 [Quick Navigation](#-quick-facts-and-statistics)
 
 ---
 
 ## 🇿🇲 Overview
 This comprehensive collection contains the essential documents, policies, frameworks, and knowledge that define what it means to be Zambian. From foundational legal documents to modern governance structures, from pre-colonial history to current challenges, this repository represents the complete landscape of Zambian identity, governance, culture, and society.
 
+**Strategic Vision:** This collection serves as the foundation for building "Everything Zambia" into a world-class knowledge ecosystem that democratizes access to Zambian knowledge through innovative content creation, educational programming, and community engagement. Our comprehensive [Strategic Growth Implementation Plan](STRATEGIC_GROWTH_IMPLEMENTATION_PLAN.md) outlines our roadmap to becoming the definitive global resource for understanding Zambia.
+
 ## 🚀 **Quick Start**
+- **What is Everything Zambia?** → [Everything Zambia Definition](../EVERYTHING_ZAMBIA_DEFINITION.md) *(Complete overview of our mission, vision, and identity)*
 - **New to Zambia?** → [Modern Zambia Snapshot](learning_paths/Modern_Zambia_Snapshot.md) *(15-30 minutes)*
 - **Want Full Story?** → [Complete Zambian Journey](learning_paths/Complete_Zambian_Journey.md) *(4-6 hours)*
+- **Brand & Creative?** → [Brand Charter](BRAND_CHARTER.md) *(Our Voice, Vision & Creative Constitution)*
+- **Strategic Vision?** → [Strategic Growth Plan](STRATEGIC_GROWTH_IMPLEMENTATION_PLAN.md) *(Our Roadmap to World-Class Knowledge Ecosystem)*
 - **Specific Topic?** → Use navigation below to find exact documents
 
 ---
@@ -39,6 +44,23 @@ everything_zambia/
 │   └── environmental_policies/
 └── MASTER_INDEX_EVERYTHING_ZAMBIA.md (this file)
 ```
+
+---
+
+## 🎨 BRAND & CREATIVE DOCUMENTS
+
+### Core Brand Framework
+**Creative Constitution:**
+- **[EVERYTHING_ZAMBIA_DEFINITION.md](../EVERYTHING_ZAMBIA_DEFINITION.md)** - The Definitive Definition - What We Are, What We Do, What We Stand For
+- **[BRAND_CHARTER.md](BRAND_CHARTER.md)** - Our Voice, Our Vision, Our Creative Constitution - The Explorer, Creator & Sage archetypes
+- **[CHARTER.md](CHARTER.md)** - Our Identity, Our Manifesto, Our Promise - For God and For Country
+- **[STRATEGIC_GROWTH_IMPLEMENTATION_PLAN.md](STRATEGIC_GROWTH_IMPLEMENTATION_PLAN.md)** - Complete strategic roadmap for building Everything Zambia into a world-class knowledge ecosystem
+
+### Brand Implementation
+**Visual & Content Guidelines:**
+- **[docs/brand-identity.md](docs/brand-identity.md)** - Brand personality and visual identity principles
+- **[docs/content-framework.md](docs/content-framework.md)** - Three Lenses content strategy implementation
+- **[docs/quick-reference.md](docs/quick-reference.md)** - Quick reference for brand and content guidelines
 
 ---
 
@@ -219,7 +241,7 @@ everything_zambia/
 - **Capital:** Lusaka
 - **Major Cities:** Ndola, Kitwe, Livingstone, Kabwe
 
-### Economy (2024 estimates)
+### Economy (2025 estimates)
 - **GDP:** ~$29 billion
 - **GDP per capita:** ~$1,400
 - **Poverty Rate:** ~54%
@@ -371,9 +393,9 @@ This collection represents a comprehensive mapping of "Everything Zambian" - fro
 ✅ **Environmental Policies** for sustainable development
 ✅ **International Relations** and regional leadership role
 
-**Total: 24+ comprehensive documents** providing the complete picture of what it means to be Zambian in 2024-2025.
+**Total: 24+ comprehensive documents** providing the complete picture of what it means to be Zambian in 2025.
 
 ---
 
-*Last Updated: September 2025*
+*Last Updated: September 17, 2025*
 *Collection Status: Complete - Phase 1 & 2 Comprehensive Coverage*

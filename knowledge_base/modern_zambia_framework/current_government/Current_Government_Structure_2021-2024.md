@@ -119,5 +119,5 @@ Zambia has 10 provinces, each with appointed Provincial Ministers:
 
 ---
 
-*Last Updated: 2024*
-*This document reflects the government structure as of 2024 and may be subject to changes through reshuffles and appointments.*
+*Last Updated: September 17, 2025*
+*This document reflects the government structure as of 2025 and may be subject to changes through reshuffles and appointments.*

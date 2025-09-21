@@ -136,7 +136,7 @@ Zambia's legal system is based on English common law and customary law, operatin
 - Criminal defense and civil matters
 - Constitutional and human rights cases
 
-## Current Legal Reforms (2021-2024)
+## Current Legal Reforms (2021-2025)
 
 ### Judicial Reforms Under UPND Government
 1. **Enhanced Judicial Independence**
@@ -190,7 +190,7 @@ Zambia's legal system is based on English common law and customary law, operatin
 - **Human resources:** Shortage of judges and court staff
 - **Technology:** Limited ICT integration
 
-## Recent Legal Developments (2021-2024)
+## Recent Legal Developments (2021-2025)
 
 ### Key Legislation
 - **Cyber Security and Cyber Crimes Act, 2021**
@@ -226,4 +226,4 @@ Zambia's legal system is based on English common law and customary law, operatin
 
 ---
 
-*This document provides a comprehensive overview of Zambia's legal system as of 2024, including recent reforms and ongoing challenges.*
+*This document provides a comprehensive overview of Zambia's legal system as of 2025, including recent reforms and ongoing challenges.*

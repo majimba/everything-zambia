@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Everything Zambia - Color Palette Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Everything Zambia</h1>
+            <h2>Color Palette Visualizer</h2>
+            <p>Interactive visualization of our brand color palettes</p>
+        </header>
+        
+        <div class="canvas-container">
+            <div id="p5-canvas"></div>
+        </div>
+        
+        <div class="info-panel">
+            <div id="color-info">
+                <h3>Color Information</h3>
+                <p>Hover over color swatches to see details</p>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <button id="export-btn">Export Palette</button>
+            <button id="reset-btn">Reset View</button>
+        </div>
+
+        <div class="theme-panel">
+            <h3>Theme Preview</h3>
+            <div class="theme-row" id="theme-presets"></div>
+            <div style="margin-top:10px; display:flex; gap:8px; align-items:center;">
+                <button id="copy-css">Copy CSS</button>
+                <button id="copy-json">Copy JSON</button>
+                <span id="contrast" class="contrast-badge"></span>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.7.0/p5.min.js"></script>
+    <script src="theme.js"></script>
+    <script src="sketch.js"></script>
+</body>
+</html>

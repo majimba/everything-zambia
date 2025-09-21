@@ -1,37 +1,87 @@
 # Brand Identity Guidelines
+*Implementation of the Brand Charter*
 
 ## 🧭 Navigation
-[Overview](../../README.md) | [Charter](../PROJECT_CHARTER.md) | **Brand Identity** | [Content Framework](./content-framework.md) | [Quick Reference](./quick-reference.md)
+[Overview](../../README.md) | [Charter](../CHARTER.md) | [Brand Charter](../BRAND_CHARTER.md) | **Brand Identity** | [Content Framework](./content-framework.md) | [Quick Reference](./quick-reference.md)
 
-| [← Previous: Charter](../CHARTER.md) | **Next:** [Content Framework →](./content-framework.md) |
+|| [← Previous: Brand Charter](../BRAND_CHARTER.md) | **Next:** [Content Framework →](./content-framework.md) |
 |---|---|
 
 ## Core Identity
 Everything Zambia is a **national project** disguised as a media platform. We are the keepers of Zambian stories, the facilitators of national dialogue, and the bridge between tradition and modernity.
 
-## Brand Personality
-- **Patriotic**: Deeply rooted love for Zambia
-- **Authentic**: Genuine, honest, unfiltered truth
-- **Inclusive**: Representing all tribes, regions, and social classes
-- **Empowering**: Building up citizens through complete civic education and constitutional awareness
-- **Respectful**: Honoring elders, traditions, and diverse perspectives
-- **Forward-thinking**: Bridging past wisdom with future possibilities
+> **Note:** This document provides implementation guidelines for the [Brand Charter](../BRAND_CHARTER.md), which serves as our creative constitution. The Brand Charter defines our archetypes (Explorer, Creator, Sage) and visual/sonic identity principles.
+
+## Brand Archetypes in Practice
+
+### The Explorer 🗺️ (Primary - Our Spirit)
+**Voice Characteristics:**
+- Adventurous and immersive tone
+- Curiosity-driven storytelling
+- "What's over that hill? Who is that person? What does the future hold?"
+- Discovery-focused content approach
+
+### The Creator 🎨 (Secondary - Our Standard)
+**Voice Characteristics:**
+- Excellence-driven content creation
+- Aesthetic quality as respect for subjects and audience
+- Beautifully crafted photo essays and cinematic documentaries
+- Unique artistic collaborations
+
+### The Sage 🦉 (Secondary - Our Conscience)
+**Voice Characteristics:**
+- Insightful and courageous voice
+- Nuanced approach to complex social issues
+- Depth and context in storytelling
+- Truth-seeking and wisdom-sharing
 
 ## Visual Identity Principles
-*(To be developed)*
-- Should reflect both traditional and modern Zambia
-- Incorporate natural elements (rivers, valleys, wildlife)
-- Use colors that represent the nation and its diversity
-- Typography that is accessible yet dignified
+*Implementation of Brand Charter Guidelines*
+
+### Photography
+- **Raw, authentic, and dignified portraiture**
+- **Expansive, natural landscapes**
+- **Vibrant, candid shots of daily life**
+- **Avoid staged or generic stock imagery**
+
+### Color Palette
+- **Rooted in Zambian flag** (Green, Orange, Red, Black)
+- **Expanded with earthy tones** from natural landscapes (copper, rich soil, deep water blue)
+
+### Typography
+- **Clean, modern sans-serif** for accessibility
+- **Classic serif** for dignity and gravitas
+- **Blend of both** for comprehensive brand expression
+
+## Sonic Identity Principles
+*For Podcasts & Video Content*
+
+### Music
+- **Traditional Zambian rhythms** (e.g., Kalindula)
+- **Contemporary, minimalist electronic soundscapes**
+- **Blend of traditional and modern** for authentic Zambian sound
+
+### Sound Design
+- **Ambient, real-world sounds** from Zambia
+- **Market, bush, city sounds** for immersive experience
+- **Natural audio environment** that grounds content in place
 
 ## Messaging Hierarchy
+*From Brand Charter*
 
-### Primary Message
-"Everything Zambia: The complete story of our nation"
+### Master Tagline
+**"Everything Zambia: Our Story, Told by Us."**
+
+### Mission Statement
+**"Archiving our past, reflecting our present, imagining our future."**
+
+### Pillar Taglines
+- **The Mirror:** "See Yourself in Our Story."
+- **The Map:** "Know Your Home. Know Your Heritage."
+- **The Forum:** "The Conversation That Builds a Nation."
 
 ### Supporting Messages
 - "For God and For Country"
-- "Archiving our past, reflecting our present, imagining our future"
 - "One Zambia, One Story, Many Voices"
 
 ## Content Tone Guidelines
@@ -42,6 +92,7 @@ Everything Zambia is a **national project** disguised as a media platform. We ar
 - Show respect for all traditions and viewpoints
 - Encourage constructive dialogue
 - Celebrate achievements while acknowledging challenges
+- Apply the three archetype voices appropriately
 
 ### Don't:
 - Take partisan political stances
@@ -49,6 +100,7 @@ Everything Zambia is a **national project** disguised as a media platform. We ar
 - Ignore difficult truths or whitewash issues
 - Favor one region, tribe, or demographic over others
 - Compromise on factual accuracy for any reason
+- Stray from the defined archetype voices
 
 ## Voice Characteristics
 
@@ -67,8 +119,13 @@ Everything Zambia is a **national project** disguised as a media platform. We ar
 - Presentation meets international standards
 - Content is accessible to both local and diaspora audiences
 
+**Archetype-Driven**
+- Explorer: Adventurous, curious, discovery-focused
+- Creator: Excellence-driven, aesthetically conscious
+- Sage: Insightful, courageous, truth-seeking
+
 ---
 
 ## 🧭 Navigation
-| [← Previous: Charter](../PROJECT_CHARTER.md) | **Next:** [Content Framework →](./content-framework.md) |
+|| [← Previous: Brand Charter](../BRAND_CHARTER.md) | **Next:** [Content Framework →](./content-framework.md) |
 |---|---|

@@ -23,7 +23,7 @@ Get a focused understanding of modern Zambia - how the country operates today, w
 - **Government:** United Party for National Development (UPND)
 - **System:** Multi-party democratic republic
 
-### 📊 **Key Statistics (2024)**
+### 📊 **Key Statistics (2025)**
 - **Population:** ~20.1 million
 - **GDP:** ~$29 billion
 - **Poverty Rate:** ~54%
@@ -35,7 +35,7 @@ Get a focused understanding of modern Zambia - how the country operates today, w
 ## 📚 **Essential Reading Path**
 
 ### 🏢 **1. How Government Works Today**
-**📖 [Current Government Structure 2021-2024](../modern_zambia_framework/current_government/Current_Government_Structure_2021-2024.md)**
+**📖 [Current Government Structure 2021-2025](../modern_zambia_framework/current_government/Current_Government_Structure_2021-2024.md)**
 
 **⏱️ 5-7 minutes**
 
@@ -50,7 +50,7 @@ Get a focused understanding of modern Zambia - how the country operates today, w
 ---
 
 ### 🎯 **2. Current National Challenges**
-**📖 [Current National Challenges 2024](../modern_zambia_framework/national_challenges/Current_National_Challenges_2024.md)**
+**📖 [Current National Challenges 2025](../modern_zambia_framework/national_challenges/Current_National_Challenges_2024.md)**
 
 **⏱️ 8-10 minutes**
 

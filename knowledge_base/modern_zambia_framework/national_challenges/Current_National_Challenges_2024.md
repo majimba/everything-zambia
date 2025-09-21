@@ -1,4 +1,4 @@
-# Current National Challenges in Zambia (2024)
+# Current National Challenges in Zambia (2025)
 
 ## Overview
 Despite significant progress since independence, Zambia faces several critical challenges that impact national development and citizen welfare. The current UPND government under President Hichilema has prioritized addressing these structural issues while implementing reforms to stimulate economic growth and improve living standards.
@@ -20,7 +20,7 @@ Despite significant progress since independence, Zambia faces several critical c
 
 ### 2. Unemployment Crisis
 **Key Statistics:**
-- **Overall Unemployment:** Approximately 12.9% (2024 estimates)
+- **Overall Unemployment:** Approximately 12.9% (2025 estimates)
 - **Youth Unemployment:** Over 23% for ages 15-35
 - **Underemployment:** Significant informal sector participation
 - **Skills Mismatch:** Gap between education and job market requirements
@@ -186,7 +186,7 @@ Despite significant progress since independence, Zambia faces several critical c
 Zambia's challenges are interconnected and require comprehensive, multi-sectoral approaches. The current government's focus on economic recovery, infrastructure development, and social protection provides a framework for addressing these challenges. Success will depend on effective implementation, good governance, and sustained commitment to reform while leveraging Zambia's natural resources and human capital for inclusive development.
 
 ## Sources
-- World Bank Zambia Country Overview 2024
+- World Bank Zambia Country Overview 2025
 - IMF Article IV Consultation Reports
 - Zambia Statistics Agency reports
 - Ministry of National Development Planning documents
