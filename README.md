@@ -44,7 +44,7 @@ Our flagship documentary series exploring modern Zambian identity through charac
 
 - [knowledge_base/](knowledge_base/) — Core documents, indices, learning paths, and frameworks
 - [the_new_zambian/](the_new_zambian/) — Flagship MVP documentary series (episodes, characters, production)
-- [news_ambient/](news_ambient/) — News Ambience browseable series (episodes, guides, assets)
+- [news_ambience/](news_ambience/) — News Ambience browseable series (episodes, guides, assets)
 - [design_thinking/](design_thinking/) — Design Thinking playbooks, templates, and AI simulations
 - [color_palette_viewer/](color_palette_viewer/) — Interactive p5.js brand color palette tool
 
