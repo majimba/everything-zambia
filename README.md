@@ -1,4 +1,5 @@
 # 🇿🇲 Everything Zambia
+
 ## A National Project to Define Our Identity
 
 ---
@@ -27,6 +28,15 @@ This is not just research - this is a **MASTER'S MEDIA PROJECT** and **CULTURAL 
 **HOW:** Through our five Core Values (Authenticity, Creativity, Community, Global Reach, Excellence) and five Brand Pillars (Culture & Lifestyle, Music & Creativity, People & Stories, Travel & Places, Future & Innovation).
 
 **WHAT:** Premium content including digital magazine, video series, podcasts, hard-hitting social documentaries, social media, events, and curated merchandise.
+
+---
+
+## 🎬 Flagship Documentary Series
+
+### News Ambience (MVP)
+Our flagship documentary series capturing the texture of Zambian life through short, sound‑led episodes you can browse end‑to‑end.
+
+➡️ Start here: [Explore News Ambience](news_ambience/README.md)
 
 ---
 
@@ -130,6 +140,7 @@ This is **OUR PROJECT** - every Zambian's project. Whether you're a citizen disc
 ---
 
 ### 🎯 **Start Here**
+
 - **[🇿🇲 WHAT IS EVERYTHING ZAMBIA?](EVERYTHING_ZAMBIA_DEFINITION.md)** - **THE DEFINITIVE DEFINITION** - What We Are, What We Do, What We Stand For
 - **[📄 READ THE CHARTER](knowledge_base/CHARTER.md)** - **OUR SACRED VOW** - Our Identity, Manifesto, and Promise to the Nation
 - **[🎨 BRAND CHARTER](knowledge_base/BRAND_CHARTER.md)** - **OUR CREATIVE CONSTITUTION** - Our Voice, Vision, and Creative Identity
